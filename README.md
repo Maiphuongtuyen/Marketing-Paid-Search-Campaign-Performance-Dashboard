@@ -51,11 +51,13 @@ Because it had a higher average order value than the other promotion strategies,
 #### 2. What Keyword Strategy and Device are most effective in driving engagement and conversions?
 In terms of keyword and device approach, the CPC for mobile was $0.51 as opposed to $1.22 for desktop. Mobile was the source of most conversions. But the ROI on mobile was just -13%, whereas the ROI on desktop was 10%. Despite the higher conversion rate, the order value on Mobile was insufficient to cover the expense of advertising. The most successful keyword approach was 1:1, which had the best CTR (39%) and the highest number of conversions on desktop and mobile platforms. The 1:1 and Exact keywords performed similarly in terms of revenue, with nearly identical ROAS and ROI (both negative). With the highest CPC, lowest CTR, lowest ROAS, and lowest ROI, the Phrase keyword strategy proved to be the least successful.
 <br>
+
 ***=> To effectively target customers' search intent, it is recommended to select Mobile and 1:1 keyword strategy; nevertheless, it is important to take into account the associated expenses to prevent additional economic losses.***
 
 #### 3. Which month demonstrated the best business performance?
 The best performing month is typically the one with the highest ROAS and ROI, along with a conversion rate that's at least average. At first glance, the chart makes November seem like the winner. But, since that's when Black Friday and Cyber Monday happen, sales and conversions skyrocketed. However, the huge discounts we offered ate into our profits more than any other month in the past five. So, I think November is a bit of an outlier. (As you can see in the graph, when selecting November, the graph clearly shows that the profit for November experienced a dramatic decrease of 2768% compared to the previous month)
 The click-through rate for that month was the lowest of the five, and the high conversion rate was mostly due to people remembering the sales, not because our ads were super compelling. In my opinion, October was the real standout. It had the best ROAS and ROI, along with average CPC, CTR, and conversion rates. It was also the only month out of the five that turned a profit, even though the cost per click was a pretty average $0.67
+<br>
 ***=> In terms of both cost and profit, October proved to be the most efficient month. Furthermore, its click-through rates and conversion rates were good.***
 
 #### Thanks for your time! If you have any questions or just want to chat, don't hesitate to get in touch. I'm always excited to talk about data and discover new possibilities!
